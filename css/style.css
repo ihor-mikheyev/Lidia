@@ -453,7 +453,7 @@ a:hover {
 }
 .location__content img {
   display: block;
-  /* width: 100%; */
+  width: 100%;
 }
 
 @media (max-width: 768px) {
